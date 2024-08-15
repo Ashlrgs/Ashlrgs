@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Ashlesha Bhandarkar</h2>
-<h3 align="center">Frontend Developer with Passion for Data Science and AIML</h3>
+<h3 align="center">A Data Analyst and a Web Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
